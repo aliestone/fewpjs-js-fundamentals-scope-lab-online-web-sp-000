@@ -1,10 +1,11 @@
-const animal = myAnimal, yourAnimal
+const animal =
 
 function myAnimal() {
   return animal
 }
 
 function yourAnimal() {
+  let yourAnimal = animal
   return animal
 }
 
